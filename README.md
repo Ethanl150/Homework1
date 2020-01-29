@@ -1,1 +1,1 @@
-# Homework1
+In this application, I replaced non-semantic HTML elements with semantic ones. Additionally, I edited some of the classes to make the code more concise and easier to read, updating both "index.html" and "style.css" accordingly. I also added "alt" attributes to the images, made some changes to the structure of the code, and fixed some minor inconsistencies and flaws.
